@@ -1,1 +1,1 @@
-# creative-photography
+# PhotographyBlog
